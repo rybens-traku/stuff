@@ -1,0 +1,17 @@
+.container {
+  color: green;
+  text-align: center;
+  font-size: 100px;
+}
+
+body {
+  background-color: aquamarine;
+}
+
+a {
+  font-size: 80;
+  text-align: center;
+  color: green;
+  background: black;
+  box-shadow: 0-0.5px black
+}
